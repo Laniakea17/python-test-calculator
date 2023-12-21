@@ -1,0 +1,2 @@
+pytest==7.0.1
+iniconfig==1.0.0
